@@ -15,7 +15,7 @@ sections:
     backgroundSize: full
     title: 'Hi! I’m a UI/UX Designer, Author, Lifelong Learner, and Tech Enthusiast.'
     subtitle: >-
-      This is my space — I’m sharing it all with you to showcase my passion for
+      This is my space. I’m sharing it all with you to showcase my passion for
       design, storytelling, and technology. Over the years, I’ve crafted digital
       experiences, written meaningful narratives, and continuously explored the
       ever-evolving tech world. Scroll down to see more about my journey,
