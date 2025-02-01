@@ -4,7 +4,7 @@ title: KiddieStyle - Kids Fashion
 colors: colors-a
 date: '2021-12-20'
 client: Awesome client
-description: "Kiddiestyle is an e-commerce website specializing in kids' fashion, making it easy for customers to shop 24/7. \U0001F45A\U0001F6CD️"
+description: "Kiddiestyle is an e-commerce website specializing in kids fashion, making it easy for customers to shop 24/7. \U0001F45A\U0001F6CD️"
 featuredImage:
   type: ImageBlock
   url: /images/dribbble-kiddiestore 2.png
