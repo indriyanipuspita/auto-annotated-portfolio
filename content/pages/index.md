@@ -15,9 +15,11 @@ sections:
     backgroundSize: full
     title: 'Hi! I’m a UI/UX Designer, Author, Lifelong Learner, and Tech Enthusiast.'
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      This is my space—I’m sharing it all with you to showcase my passion for
+      design, storytelling, and technology. Over the years, I’ve crafted digital
+      experiences, written meaningful narratives, and continuously explored the
+      ever-evolving tech world. Scroll down to see more about my journey,
+      projects, and expertise!
     styles:
       self:
         height: auto
