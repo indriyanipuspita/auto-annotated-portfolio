@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Another cool project
+title: KiddieStyle - Kids Fashion
 colors: colors-a
 date: '2021-12-20'
 client: Awesome client
