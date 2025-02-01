@@ -7,7 +7,7 @@ client: Awesome client
 description: >-
   Kiddiestyle is a case study of an e-commerce platform specializing in kids'
   fashion that I designed and developed from start to finish. With a 24/7 online
-  shopping concept.
+  shopping concept. It's really challenging for me :D
 featuredImage:
   type: ImageBlock
   url: /images/dribbble-kiddiestore 2.png
