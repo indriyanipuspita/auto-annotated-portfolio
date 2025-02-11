@@ -3,7 +3,7 @@ type: ProjectLayout
 title: KiddieStyle - Kids Fashion
 colors: colors-a
 date: '2021-12-20'
-client: Awesome client
+client: Details
 description: >-
   Kiddiestyle is a case study of an e-commerce platform specializing in kids'
   fashion that I designed and developed from start to finish. With a 24/7 online
