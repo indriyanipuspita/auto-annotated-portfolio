@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: 'Hi! I’m a UI/UX Designer, Author, Lifelong Learner, and Tech Enthusiast.'
+    title: "Hi! I’m a UI/UX Designer,\_Tech Enthusiast,\_Author, and Lifelong Learner."
     subtitle: >-
       This is my space. I’m sharing it all with you to showcase my passion for
       design, storytelling, and technology. Over the years, I’ve crafted digital
