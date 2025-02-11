@@ -16,6 +16,7 @@ media:
   type: ImageBlock
   url: /images/dribbble-kiddiestore 5.png
   altText: Project image
+metaTitle: website pemula
 ---
 Hi folks! Setiap desain yang ku buat pasti punya cerita yang berbeda. Yep, contohnya kayak desain website yang satu ini nih.
 Kenapa? karena, bener-bener dirancang sampe tahap coding. Sebenarnya, ini bukan pertama kalinya aku coding desain yang ku buat. Tapii, yang bikin excited itu karena aku nyoba pelajari lagi bahasa yang sebelumnya ngajarin aku seberapa keren pemrograman itu, aseek hahaha. Ya, awal-awal coding pas masih di bangku sekolah tuh seruu. Karena, ga banyak error nya wkwk (yakan yang dipelajari markup language😂).
