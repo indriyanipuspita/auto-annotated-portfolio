@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: "# Hi! I’m Indri—a UI/UX Designer who blends creativity with technology. I design intuitive digital experiences, write impactful stories, and constantly explore new innovations. Let’s build something great together! \U0001F680\n\n"
+    text: "## Hi! I’m Indri, a UI/UX Designer who blends creativity with technology. I design intuitive digital experiences, write impactful stories, and constantly explore new innovations. Let’s build something great together! \U0001F680\n\n"
     media:
       type: ImageBlock
       url: /images/about.jpg
