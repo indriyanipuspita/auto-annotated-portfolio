@@ -13,14 +13,10 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+    text: "## Hi! I’m Indri, a UI/UX Designer who blends creativity with technology. I design intuitive digital experiences, write impactful stories, and constantly explore new innovations. Let’s build something great together! \U0001F680\n\n"
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/image 23563453.png
       altText: Hero image
     styles:
       self:
@@ -58,65 +54,6 @@ sections:
         justifyContent: center
         borderWidth: 1
         borderStyle: solid
-  - type: MediaGallerySection
-    colors: colors-f
-    subtitle: 'I worked with these folks:'
-    images:
-      - type: ImageBlock
-        url: /images/logo1.svg
-        altText: Logo one
-        caption: Logo one
-      - type: ImageBlock
-        url: /images/logo2.svg
-        altText: Logo two
-        caption: Logo two
-      - type: ImageBlock
-        url: /images/logo3.svg
-        altText: Logo three
-        caption: Logo three
-      - type: ImageBlock
-        url: /images/logo4.svg
-        altText: Logo four
-        caption: Logo four
-      - type: ImageBlock
-        url: /images/logo5.svg
-        altText: Logo five
-        caption: Logo five
-    spacing: 3
-    columns: 5
-    aspectRatio: auto
-    showCaption: false
-    enableHover: false
-    styles:
-      self:
-        width: wide
-        height: auto
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderRadius: none
-        borderWidth: 0
-        borderStyle: none
-        borderColor: border-dark
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderWidth: 1
-        borderStyle: solid
   - type: FeaturedItemsSection
     colors: colors-f
     items:
@@ -124,15 +61,7 @@ sections:
         actions:
           - type: Link
             label: GitHub
-            url: 'https://github.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Twitter
-            url: 'https://twitter.com/'
+            url: 'https://github.com/indriyanipuspita'
         styles:
           self:
             textAlign: left
@@ -141,22 +70,6 @@ sections:
           - type: Link
             label: LinkedIn
             url: 'https://www.linkedin.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: CodePen
-            url: 'https://codepen.io/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Discord
-            url: 'https://discord.com/'
         styles:
           self:
             textAlign: left
@@ -257,26 +170,27 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: 'Experience:'
-        text: |-
+        text: |+
           **Current**
 
-          * freelance @freelance.me
+          *   UI/UX Designer
 
           **2018-2021**
 
-          * fullstack at this startup
+          *   fullstack at this startup
 
           **2015**
 
-          * senior front-end at this place
+          *   senior front-end at this place
 
           **2013**
 
-          * intern developer at a big company
+          *   intern developer at a big company
 
           **2011**
 
-          * flipping burgers
+          *   flipping burgers
+
         styles:
           self:
             textAlign: left
